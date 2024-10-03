@@ -1,0 +1,18 @@
+{
+  "cricket": [
+    {
+      "id": "1",
+      "title": "Caption",
+      "body": "The Champions League 2017 final was a special occasion for Pakistan as the Sarfaraz Ahmed-led side defeated India to clinch the title thanks to a brilliant knock from Fakhar Zaman and impressive bowling performances from Hasan Ali and Mohammad Amir.",
+      "priority": "The champion caption",
+      "user_email": "sarfaraz@win.dev"
+    },
+    {
+      "id": "2",
+      "title": "Fakhhar zaman",
+      "body": "Fakhar Zaman of Pakistan received the Man of the Match award for scoring 114. Shikhar Dhawan of India received the Golden Bat award for scoring 338 runs in the tournament while Hasan Ali of Pakistan received the Golden Ball award for taking 13 wickets; he was also adjudged the Man of the Series.",
+      "priority": "The champion batsman",
+      "user_email": "fakhar@win.dev"
+    }
+  ]
+}
